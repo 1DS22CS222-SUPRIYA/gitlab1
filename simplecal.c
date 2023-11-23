@@ -2,6 +2,10 @@
 main()
 {
   add();
+{
+  printf("SUM=");
+  
+} 
   sub();
   mult();
   div();
