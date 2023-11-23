@@ -11,4 +11,5 @@ main()
   sub();
   mult();
   div();
+  printf("HELLO");
 }
